@@ -29,7 +29,8 @@ def parsingResponse(soup):
             job_all.append(job_list)
             job_list = []
         except AttributeError:
-            print("Attribute error!")
+            print("Attribute error!: ")
+            print(job_element)
         except StopIteration:
             break
     return job_all
