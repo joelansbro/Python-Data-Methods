@@ -1,3 +1,5 @@
 *.csv
 *.pdf
 *.txt
+*.pyc
+__pycache__/
