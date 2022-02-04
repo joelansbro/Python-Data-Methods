@@ -4,6 +4,7 @@ import pandas as pd
 from datetime import datetime
 import time
 
+# will fetch json from source await five seconds and fetch again
 
 # fetch json
 def fetch(url: str) -> list:
@@ -21,6 +22,7 @@ def process(posts: list) -> pd.DataFrame:
         })
     return pd.DataFrame(processed)
 
+# simulated wait timing to not overload a third party
 if __name__ == '__main__':
     loop = True
     while(loop):
