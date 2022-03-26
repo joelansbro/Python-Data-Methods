@@ -4,3 +4,4 @@
 *.pyc
 __pycache__/
 _*.json
+*.xlsx
