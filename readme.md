@@ -9,7 +9,8 @@ Numpy - https://numpy.org/doc/stable
 Matplotlib - https://matplotlib.org/
 Openpyxl - https://openpyxl.readthedocs.io/en/stable/
 Tensorflow - https://www.tensorflow.org/api_docs
-
+SpaCy - https://spacy.io/api
+NLTK - https://www.nltk.org/api/nltk.html
 
 ## Server
 Flask - https://flask.palletsprojects.com/en/2.0.x/
