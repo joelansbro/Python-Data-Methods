@@ -4,12 +4,19 @@
 
 ## Analysis
 Pandas - https://pandas.pydata.org/docs/
+
 BeautifulSoup4 - https://beautiful-soup-4.readthedocs.io/en/latest/
+
 Numpy - https://numpy.org/doc/stable
+
 Matplotlib - https://matplotlib.org/
+
 Openpyxl - https://openpyxl.readthedocs.io/en/stable/
+
 Tensorflow - https://www.tensorflow.org/api_docs
+
 SpaCy - https://spacy.io/api
+
 NLTK - https://www.nltk.org/api/nltk.html
 
 ## Server
